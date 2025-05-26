@@ -1,0 +1,29 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background shape -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/darker_gray" />
+            <corners android:radius="4dp" />
+        </shape>
+    </item>
+
+    <!-- Filled portion -->
+    <item android:id="@+id/progress">
+        <clip>
+            <shape android:shape="rectangle">
+                <solid android:color="@color/light_blue_600" />
+                <corners android:radius="4dp" />
+            </shape>
+        </clip>
+    </item>
+
+<!--    &lt;!&ndash; Unfilled portion (remaining) &ndash;&gt;-->
+    <item android:id="@+id/remaining">
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/darker_gray" />
+            <corners android:radius="4dp" />
+        </shape>
+    </item>
+
+</layer-list>

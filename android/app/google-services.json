@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "390217837576",
+    "firebase_url": "https://habit-tracker-7eaa0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "habit-tracker-7eaa0",
+    "storage_bucket": "habit-tracker-7eaa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390217837576:android:75a499032a3a090ab7b5bd",
+        "android_client_info": {
+          "package_name": "com.thinksys.habit_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390217837576-cdrccp4qvjr364lasbc0mnj5t0efmg60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thinksys.habit_tracker",
+            "certificate_hash": "c8299a89cb61f4e9fb222028e6f05bc38a8c2110"
+          }
+        },
+        {
+          "client_id": "390217837576-heej7ppe021fvfuotag7jtof54gt0mqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thinksys.habit_tracker",
+            "certificate_hash": "a078a89896feb044e987e8c04f9901b1222d9180"
+          }
+        },
+        {
+          "client_id": "390217837576-kek9vojb296mhugba0mg9bcp50pltq5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thinksys.habit_tracker",
+            "certificate_hash": "e6fc1cd81e017c70ac79340d9312e46de44707f7"
+          }
+        },
+        {
+          "client_id": "390217837576-roe61chflrgu9j9472ediindei49bqc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1In2iGPsmji87xP2gcfgA2tgw8CkYYQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390217837576-potfqmek8839v2g9ekatq167rklfha22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390217837576-31pji3eggm3ionkrfui8406f5auf5jrj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thinksys.habitTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
